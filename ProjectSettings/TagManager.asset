@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Weapon
+  - Unarmed
+  - Line
+  - Enemy
+  - User
+  - Breakable
+  - Waypoint
+  - Door
+  - Enraged
+  - Coin
+  - Stair
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - dead
+  - metal
+  - bg metal
+  - Player
+  - Targeting
+  - Lootable
+  - bg object
+  - Enemy
+  - Searchable
+  - EmotionalUI
+  - Sensor
+  - BgStairs
+  - Enraged
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Front
+    uniqueID: 2009964245
+    locked: 0
+  - name: Cover
+    uniqueID: 1892044545
+    locked: 0
+  - name: Ui
+    uniqueID: 2709215553
+    locked: 0
