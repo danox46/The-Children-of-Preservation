@@ -61,6 +61,7 @@ ScriptedImporter:
     maxTextureSizeSet: 0
     compressionQualitySet: 0
     textureFormatSet: 0
+    applyGammaDecoding: 0
   spriteImportData:
   - name: 
     originalName: 
@@ -16643,6 +16644,10 @@ ScriptedImporter:
   importedTextureWidth: 512
   importedTextureHeight: 512
   documentSize: {x: 800, y: 600}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
   textureActualWidth: 512
   textureActualHeight: 512
   spritePackingTag: 
@@ -16858,6 +16863,8 @@ ScriptedImporter:
         height: 198
       spriteId: fd0b190041283854ab484d67bdf0262f
       bones: 1a0000001200000006000000070000000b00000005000000080000000f000000040000000c000000000000000900000001000000020000000a00000016000000170000000e0000000d00000011000000
+      parentGroup: 0
+      order: 0
     - spritePosition:
         x: 367
         y: 157
@@ -16865,6 +16872,8 @@ ScriptedImporter:
         height: 128
       spriteId: fafa9dda709d39f41a6d0bfb98c2c847
       bones: 0700000010000000060000000e0000001600000011000000
+      parentGroup: 0
+      order: 0
     - spritePosition:
         x: 324
         y: 357
@@ -16872,6 +16881,8 @@ ScriptedImporter:
         height: 160
       spriteId: 2e2dc3fe85aa04e4ba5a7b72f4720ba5
       bones: 03000000
+      parentGroup: 0
+      order: 0
     - spritePosition:
         x: 367
         y: 104
@@ -16879,6 +16890,8 @@ ScriptedImporter:
         height: 140
       spriteId: 2f025c0bed6bfd84ea10ebea26e6e883
       bones: 1400000013000000120000001a00000007000000060000000b000000050000000d000000020000000a000000160000001700000018000000110000000e000000
+      parentGroup: 0
+      order: 0
     - spritePosition:
         x: 382
         y: 85
@@ -16886,6 +16899,8 @@ ScriptedImporter:
         height: 27
       spriteId: 2e6c04843c839e340ba426adb527e1e1
       bones: 190000001500000014000000
+      parentGroup: 0
+      order: 0
     - spritePosition:
         x: 350
         y: 211
@@ -16893,6 +16908,8 @@ ScriptedImporter:
         height: 161
       spriteId: a17973a9e8558b543aef4059869e7106
       bones: 0b00000010000000080000000f00000004000000000000000c000000090000000a00000001000000160000000e00000011000000060000000d0000000200000005000000
+      parentGroup: 0
+      order: 0
     - spritePosition:
         x: 377
         y: 165
@@ -16900,6 +16917,8 @@ ScriptedImporter:
         height: 198
       spriteId: 8d1a5f272d8494849b8b72c4868eefcd
       bones: 1a0000001200000006000000070000000b00000005000000080000000f000000040000000c000000000000000900000001000000020000000a00000016000000170000000e0000000d00000011000000
+      parentGroup: 0
+      order: 0
     - spritePosition:
         x: 367
         y: 104
@@ -16907,6 +16926,8 @@ ScriptedImporter:
         height: 140
       spriteId: 1d95850da6b52054b800650f4a0f971c
       bones: 1400000013000000120000001a00000007000000060000000b000000050000000d000000020000000a000000160000001700000018000000110000000e00000015000000
+      parentGroup: 0
+      order: 0
     - spritePosition:
         x: 382
         y: 85
@@ -16914,62 +16935,12 @@ ScriptedImporter:
         height: 27
       spriteId: a897ced5bf9598d42919d1d546811178
       bones: 190000001500000014000000
+      parentGroup: 0
+      order: 0
     dimension: {x: 0, y: 0}
-  boneGOs:
-  - go: {fileID: 5527218261402052053, guid: 72639ff1ad259c54ba50ce5c9971843a, type: 3}
-    index: 0
-  - go: {fileID: -4065818644678373893, guid: 72639ff1ad259c54ba50ce5c9971843a, type: 3}
-    index: 1
-  - go: {fileID: 480223975178384748, guid: 72639ff1ad259c54ba50ce5c9971843a, type: 3}
-    index: 2
-  - go: {fileID: -1984330941746039972, guid: 72639ff1ad259c54ba50ce5c9971843a, type: 3}
-    index: 3
-  - go: {fileID: -7524356232808257808, guid: 72639ff1ad259c54ba50ce5c9971843a, type: 3}
-    index: 4
-  - go: {fileID: 3943877809975725857, guid: 72639ff1ad259c54ba50ce5c9971843a, type: 3}
-    index: 5
-  - go: {fileID: -2584551530665906766, guid: 72639ff1ad259c54ba50ce5c9971843a, type: 3}
-    index: 6
-  - go: {fileID: -8816952802931257486, guid: 72639ff1ad259c54ba50ce5c9971843a, type: 3}
-    index: 7
-  - go: {fileID: 8910030246455898380, guid: 72639ff1ad259c54ba50ce5c9971843a, type: 3}
-    index: 8
-  - go: {fileID: 6588642230736770988, guid: 72639ff1ad259c54ba50ce5c9971843a, type: 3}
-    index: 9
-  - go: {fileID: 3102077863628183668, guid: 72639ff1ad259c54ba50ce5c9971843a, type: 3}
-    index: 10
-  - go: {fileID: 5380813273088437971, guid: 72639ff1ad259c54ba50ce5c9971843a, type: 3}
-    index: 11
-  - go: {fileID: -3682286969428677154, guid: 72639ff1ad259c54ba50ce5c9971843a, type: 3}
-    index: 12
-  - go: {fileID: 180839712231837119, guid: 72639ff1ad259c54ba50ce5c9971843a, type: 3}
-    index: 13
-  - go: {fileID: 4067432249350884157, guid: 72639ff1ad259c54ba50ce5c9971843a, type: 3}
-    index: 14
-  - go: {fileID: -6055855239199078741, guid: 72639ff1ad259c54ba50ce5c9971843a, type: 3}
-    index: 15
-  - go: {fileID: -414742971775766525, guid: 72639ff1ad259c54ba50ce5c9971843a, type: 3}
-    index: 16
-  - go: {fileID: -4644930818349798840, guid: 72639ff1ad259c54ba50ce5c9971843a, type: 3}
-    index: 17
-  - go: {fileID: 4952102172261454658, guid: 72639ff1ad259c54ba50ce5c9971843a, type: 3}
-    index: 18
-  - go: {fileID: 2876010677803447464, guid: 72639ff1ad259c54ba50ce5c9971843a, type: 3}
-    index: 19
-  - go: {fileID: 7690493781511850167, guid: 72639ff1ad259c54ba50ce5c9971843a, type: 3}
-    index: 20
-  - go: {fileID: 1381224837364255429, guid: 72639ff1ad259c54ba50ce5c9971843a, type: 3}
-    index: 21
-  - go: {fileID: -5466262524298951888, guid: 72639ff1ad259c54ba50ce5c9971843a, type: 3}
-    index: 22
-  - go: {fileID: 5970971386862194168, guid: 72639ff1ad259c54ba50ce5c9971843a, type: 3}
-    index: 23
-  - go: {fileID: -8371244097238782043, guid: 72639ff1ad259c54ba50ce5c9971843a, type: 3}
-    index: 24
-  - go: {fileID: -8571694292096695301, guid: 72639ff1ad259c54ba50ce5c9971843a, type: 3}
-    index: 25
-  - go: {fileID: -3796525291005928049, guid: 72639ff1ad259c54ba50ce5c9971843a, type: 3}
-    index: 26
+    characterGroups: []
   generateGOHierarchy: 0
   textureAssetName: Kolos_imp1
   prefabAssetName: Kolos_imp1_GO
+  spriteLibAssetName: Kolos_imp1 Sprite Lib
+  secondarySpriteTextures: []
